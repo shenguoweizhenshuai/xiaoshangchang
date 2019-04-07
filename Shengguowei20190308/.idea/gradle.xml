@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/313day01" />
+            <option value="$PROJECT_DIR$/313zuoye" />
+            <option value="$PROJECT_DIR$/314day02" />
+            <option value="$PROJECT_DIR$/315day03" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day312" />
+            <option value="$PROJECT_DIR$/day312day01" />
+            <option value="$PROJECT_DIR$/mvpdemo1" />
+            <option value="$PROJECT_DIR$/pulltorefresh_library" />
+            <option value="$PROJECT_DIR$/xlistview_library" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
